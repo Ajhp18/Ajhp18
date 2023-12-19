@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ajhp18
-- 👀 I’m interested in python coding and SQL
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python coding to build the new softwares.
+- 👋 Hi, I'm Ajaykumar HP (@ajhp18).
+- 👀 Passionate about ReactJS (1+ years), JavaScript, Python, and full-stack development. 
+- 🌱 Currently building exciting projects and eager to collaborate on innovative ReactJS and full-stack applications. Also built an PySide6 GUI  desktop application from scratch.
+- 💞️ Let's build something awesome together!
 - 📫 How to reach me - ajayhps18@gmail.com
 
 <!---
