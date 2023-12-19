@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Ajaykumar HP (@ajhp18).
 - 👀 Passionate about ReactJS (1+ years), JavaScript, Python, MySql and full-stack development. 
-- 🌱 Currently building exciting projects and eager to collaborate on innovative ReactJS and full-stack applications. Also built an PySide6 GUI  desktop application from scratch.
+- 🌱 Currently building exciting projects and eager to collaborate on innovative ReactJS and full-stack applications. Also built a PySide6 GUI desktop application from scratch.
 - 💞️ Let's build something awesome together!
 - 📫 How to reach me - ajayhps18@gmail.com
 
